@@ -56,7 +56,7 @@ const App: React.FC = () => {
                JS <span className="text-brand-600">Fixer</span>
              </h1>
           </div>
-          <a href="https://github.com/google/generative-ai-js" target="_blank" rel="noopener noreferrer" className="text-sm text-gray-500 hover:text-brand-600 transition-colors">
+          <a href="#" target="_blank" rel="noopener noreferrer" className="text-sm text-gray-500 hover:text-brand-600 transition-colors">
             Developed by MV Softkey TechHub
           </a>
         </div>
