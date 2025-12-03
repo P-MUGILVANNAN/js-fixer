@@ -1,0 +1,5 @@
+{
+  "name": "JavaScript Error Fixer",
+  "description": "An intelligent tool that analyzes, detects, and fixes syntax and logical errors in JavaScript code using the Gemini API.",
+  "requestFramePermissions": []
+}
